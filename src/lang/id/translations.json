@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "about": "Tentang",
+    "services": "Layanan",
+    "pricing": "Harga",
+    "howWeWork": "Cara Kerja",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "title": "Pengembangan Software, Deployment, dan Dukungan Berkelanjutan untuk Bisnis yang Berkembang",
+    "subtitle": "Kami membantu bisnis, institusi, dan organisasi dengan solusi teknologi yang andal: pengembangan aplikasi, deployment, maintenance, dan dukungan jangka panjang. Fokus pada keandalan dan delivery, bukan eksperimen.",
+    "tagline": "Build → Deploy → Maintain",
+    "ctaConsultation": "Konsultasi Gratis",
+    "ctaWhatsApp": "Hubungi via WhatsApp",
+    "whatsappMessage": "Halo, saya tertarik untuk konsultasi gratis."
+  },
+  "about": {
+    "title": "Tentang Kami",
+    "content1": "Bagdja Development Group adalah partner teknologi yang berfokus pada pengembangan software, deployment, dan maintenance untuk bisnis, institusi, dan organisasi.",
+    "content2": "Kami beroperasi sebagai development group berbasis jasa dengan pendekatan full lifecycle: Build → Deploy → Maintain. Kami tidak hanya mengembangkan sistem, tetapi juga melakukan deployment yang andal dan memberikan dukungan berkelanjutan untuk memastikan sistem berjalan dengan baik dalam jangka panjang.",
+    "content3": "Kami bekerja sebagai partner teknologi jangka panjang, bukan hanya vendor project-based. Setiap sistem yang kami kembangkan dirancang untuk dapat di-maintain, di-upgrade, dan berkembang seiring kebutuhan bisnis Anda.",
+    "content4": "Kami bekerja secara remote dan berdasarkan appointment, memungkinkan fleksibilitas tinggi sambil menjaga standar komunikasi dan delivery yang konsisten. Tim kami memahami bahwa teknologi adalah investasi jangka panjang, dan kami berkomitmen untuk menjaga investasi tersebut tetap berjalan dengan optimal."
+  },
+  "services": {
+    "title": "Layanan Kami",
+    "softwareDev": {
+      "title": "Software Development (Web & Mobile)",
+      "description": "Aplikasi web dan mobile yang dibuat khusus untuk mendukung proses bisnis yang sesungguhnya. Dibangun dengan teknologi yang andal dan dapat di-maintain untuk jangka panjang."
+    },
+    "website": {
+      "title": "Website & Company Profile Development",
+      "description": "Website dan company profile profesional yang fokus pada kejelasan, kredibilitas, dan konversi. Dibuat untuk meningkatkan visibilitas dan kepercayaan bisnis Anda."
+    },
+    "integration": {
+      "title": "System Integration & Automation",
+      "description": "Menghubungkan sistem dan mengotomasi alur kerja untuk mengurangi pekerjaan manual. Mengintegrasikan tools yang sudah ada untuk meningkatkan efisiensi operasional."
+    },
+    "bugFixing": {
+      "title": "Bug Fixing & System Improvement",
+      "description": "Mendiagnosis, memperbaiki, dan meningkatkan sistem yang sudah ada untuk mengembalikan stabilitas dan performa. Memperbaiki masalah yang mengganggu operasional bisnis."
+    },
+    "maintenance": {
+      "title": "Deployment & Maintenance",
+      "description": "Deployment, monitoring, update, dan dukungan teknis berkelanjutan untuk menjaga sistem tetap berjalan dengan andal. Maintenance rutin dan support jangka panjang."
+    },
+    "consulting": {
+      "title": "IT Consulting",
+      "description": "Panduan teknis untuk perencanaan, peningkatan, atau scaling sistem. Konsultasi strategis untuk membantu membuat keputusan teknologi yang tepat."
+    },
+    "cta": "Konsultasi Gratis"
+  },
+  "pricing": {
+    "title": "Estimasi Harga",
+    "subtitle": "Harga berikut adalah estimasi awal. Final pricing bergantung pada scope, kondisi sistem, dan requirements yang dibutuhkan.",
+    "website": {
+      "title": "Website & Company Profile",
+      "price": "Rp 2.500.000",
+      "priceLabel": "mulai dari",
+      "description": "Website profesional dan company profile yang responsif dan dioptimasi untuk SEO.",
+      "cta": "Konsultasi Gratis"
+    },
+    "webApp": {
+      "title": "Web Application / Internal System",
+      "price": "Rp 10.000.000",
+      "priceLabel": "mulai dari",
+      "description": "Aplikasi web atau sistem internal yang dibuat khusus untuk kebutuhan operasional bisnis Anda.",
+      "cta": "Diskusikan Kebutuhan"
+    },
+    "mobile": {
+      "title": "Mobile Application",
+      "price": "Rp 25.000.000",
+      "priceLabel": "mulai dari",
+      "description": "Aplikasi mobile cross-platform menggunakan Flutter, React Native, Expo, Firebase, dan teknologi mobile lainnya untuk iOS dan Android.",
+      "cta": "Minta Estimasi"
+    },
+    "maintenance": {
+      "title": "Bug Fixing, Deployment & Maintenance",
+      "price": "Rp 1.500.000",
+      "priceLabel": "mulai dari",
+      "description": "Perbaikan bug, deployment, dan maintenance berkelanjutan untuk menjaga sistem tetap berjalan dengan baik.",
+      "cta": "Konsultasi Maintenance"
+    },
+    "disclaimer": "Final pricing depends on scope, system condition, and requirements.",
+    "cta": "Hubungi via WhatsApp untuk Konsultasi"
+  },
+  "howWeWork": {
+    "title": "Cara Kami Bekerja",
+    "subtitle": "Proses kerja berbasis lifecycle yang jelas dan transparan untuk memastikan proyek Anda berjalan dengan lancar.",
+    "step1": {
+      "title": "Konsultasi & Assessment",
+      "description": "Kami memahami kebutuhan, menilai kondisi sistem yang ada, dan menentukan pendekatan terbaik untuk proyek Anda."
+    },
+    "step2": {
+      "title": "Scope Definition & Estimation",
+      "description": "Kami menyusun scope kerja yang jelas, memberikan estimasi waktu dan biaya, serta timeline yang realistis."
+    },
+    "step3": {
+      "title": "Development / Fixing / Deployment",
+      "description": "Proses development, perbaikan, atau deployment dilakukan dengan komunikasi rutin dan delivery sesuai timeline yang disepakati."
+    },
+    "step4": {
+      "title": "Ongoing Support & Maintenance",
+      "description": "Dukungan berkelanjutan dan maintenance untuk memastikan sistem tetap berjalan optimal. Kami siap membantu kapan pun dibutuhkan."
+    }
+  },
+  "whyUs": {
+    "title": "Mengapa Memilih Kami",
+    "delivery": {
+      "title": "Delivery Profesional",
+      "description": "Setiap proyek diserahkan dengan profesional, tepat waktu, dan sesuai spesifikasi. Fokus pada keandalan, bukan eksperimen."
+    },
+    "partner": {
+      "title": "Partner Jangka Panjang",
+      "description": "Kami bekerja sebagai partner teknologi jangka panjang, bukan vendor project-based. Komitmen untuk menjaga sistem Anda tetap optimal."
+    },
+    "communication": {
+      "title": "Komunikasi Jelas",
+      "description": "Komunikasi transparan sepanjang siklus proyek. Anda selalu mendapat update dan dapat berkonsultasi kapan pun."
+    },
+    "support": {
+      "title": "Maintenance Berkelanjutan",
+      "description": "Support dan maintenance berkelanjutan untuk memastikan sistem tetap berjalan optimal. Kami siap membantu kapan pun dibutuhkan."
+    },
+    "business": {
+      "title": "Fokus pada Bisnis",
+      "description": "Kami memahami kebutuhan bisnis yang sesungguhnya dan menyediakan solusi yang tepat sasaran untuk mendukung operasional Anda."
+    }
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "subtitle": "Kami melayani secara remote dan bekerja berdasarkan appointment. Mari diskusikan bagaimana kami dapat membantu bisnis Anda sebagai partner teknologi jangka panjang.",
+    "whatsappCta": "Hubungi via WhatsApp",
+    "form": {
+      "name": "Nama",
+      "email": "Email",
+      "message": "Pesan",
+      "submit": "Kirim Pesan",
+      "success": "Terima kasih atas pesan Anda. Kami akan segera menghubungi Anda!"
+    }
+  },
+  "footer": {
+    "description": "Partner teknologi yang berfokus pada pengembangan software, deployment, dan maintenance untuk bisnis, institusi, dan organisasi. Build → Deploy → Maintain.",
+    "quickLinks": "Tautan Cepat",
+    "contact": "Kontak",
+    "remoteService": "Layanan remote tersedia berdasarkan appointment",
+    "copyright": "Bagdja Development Group. All rights reserved."
+  }
+}

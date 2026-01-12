@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "about": "关于我们",
+    "services": "服务",
+    "pricing": "价格",
+    "howWeWork": "工作方式",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "title": "面向成长企业的软件开发、部署和持续支持",
+    "subtitle": "我们为企业、机构和组织提供可靠的技术解决方案：应用开发、部署、维护和长期支持。专注于可靠性和交付，而非实验。",
+    "tagline": "构建 → 部署 → 维护",
+    "ctaConsultation": "免费咨询",
+    "ctaWhatsApp": "通过 WhatsApp 联系",
+    "whatsappMessage": "你好，我对免费咨询感兴趣。"
+  },
+  "about": {
+    "title": "关于我们",
+    "content1": "Bagdja Development Group 是一家专注于为企业、机构和组织提供软件开发、部署和维护服务的技术合作伙伴。",
+    "content2": "我们作为服务型开发团队运营，采用全生命周期方法：构建 → 部署 → 维护。我们不仅开发系统，还执行可靠的部署并提供持续支持，确保系统长期良好运行。",
+    "content3": "我们作为长期技术合作伙伴工作，而不仅仅是基于项目的供应商。我们开发的每个系统都设计为可维护、可升级，并根据您的业务需求进行扩展。",
+    "content4": "我们远程工作并按预约提供服务，在保持一致的沟通和交付标准的同时提供高度灵活性。我们的团队理解技术是一项长期投资，我们致力于保持该投资以最佳状态运行。"
+  },
+  "services": {
+    "title": "我们的服务",
+    "softwareDev": {
+      "title": "软件开发（网页和移动应用）",
+      "description": "定制网页和移动应用程序，用于支持真实的业务流程。使用可靠的技术构建，可长期维护。"
+    },
+    "website": {
+      "title": "网站和公司简介开发",
+      "description": "专注于清晰度、可信度和转化的专业网站和公司简介。旨在提高您业务的可见度和信任度。"
+    },
+    "integration": {
+      "title": "系统集成与自动化",
+      "description": "连接系统并自动化工作流程以减少手动工作。整合现有工具以提高运营效率。"
+    },
+    "bugFixing": {
+      "title": "错误修复与系统改进",
+      "description": "诊断、修复和改进现有系统以恢复稳定性和性能。修复影响业务运营的问题。"
+    },
+    "maintenance": {
+      "title": "部署与维护",
+      "description": "部署、监控、更新和持续技术支持，保持系统可靠运行。定期维护和长期支持。"
+    },
+    "consulting": {
+      "title": "IT 咨询",
+      "description": "用于规划、改进或扩展系统的技术指导。战略咨询，帮助做出正确的技术决策。"
+    },
+    "cta": "免费咨询"
+  },
+  "pricing": {
+    "title": "价格估算",
+    "subtitle": "以下价格是初步估算。最终价格取决于范围、系统状况和所需要求。",
+    "website": {
+      "title": "网站和公司简介",
+      "price": "¥1,135",
+      "priceLabel": "起价",
+      "description": "专业且响应式的网站和公司简介，针对 SEO 优化。",
+      "cta": "免费咨询"
+    },
+    "webApp": {
+      "title": "网页应用 / 内部系统",
+      "price": "¥4,545",
+      "priceLabel": "起价",
+      "description": "为您的业务运营需求定制构建的网页应用或内部系统。",
+      "cta": "讨论需求"
+    },
+    "mobile": {
+      "title": "移动应用",
+      "price": "¥11,365",
+      "priceLabel": "起价",
+      "description": "使用 Flutter、React Native、Expo、Firebase 和其他移动技术为 iOS 和 Android 开发的跨平台移动应用。",
+      "cta": "请求估算"
+    },
+    "maintenance": {
+      "title": "错误修复、部署与维护",
+      "price": "¥680",
+      "priceLabel": "起价",
+      "description": "错误修复、部署和持续维护，保持系统良好运行。",
+      "cta": "咨询维护"
+    },
+    "disclaimer": "最终价格取决于范围、系统状况和要求。",
+    "cta": "通过 WhatsApp 联系咨询"
+  },
+  "howWeWork": {
+    "title": "我们的工作方式",
+    "subtitle": "清晰透明的基于生命周期的工作流程，确保您的项目顺利进行。",
+    "step1": {
+      "title": "咨询与评估",
+      "description": "我们了解您的需求，评估现有系统状况，并确定项目的最佳方法。"
+    },
+    "step2": {
+      "title": "范围定义与估算",
+      "description": "我们创建清晰的工作范围，提供时间和成本估算以及现实的时间表。"
+    },
+    "step3": {
+      "title": "开发 / 修复 / 部署",
+      "description": "开发、修复或部署过程通过定期沟通和按约定时间表交付进行。"
+    },
+    "step4": {
+      "title": "持续支持与维护",
+      "description": "持续支持和维护，确保系统继续最佳运行。我们随时准备提供帮助。"
+    }
+  },
+  "whyUs": {
+    "title": "为什么选择我们",
+    "delivery": {
+      "title": "专业交付",
+      "description": "每个项目都专业、准时、按照规格交付。专注于可靠性，而非实验。"
+    },
+    "partner": {
+      "title": "长期合作伙伴",
+      "description": "我们作为长期技术合作伙伴工作，而非基于项目的供应商。致力于保持您的系统最佳状态。"
+    },
+    "communication": {
+      "title": "清晰的沟通",
+      "description": "整个项目周期的透明沟通。您总是能获得更新并随时咨询。"
+    },
+    "support": {
+      "title": "持续维护",
+      "description": "持续支持和维护，确保系统继续最佳运行。我们随时准备提供帮助。"
+    },
+    "business": {
+      "title": "以业务为中心",
+      "description": "我们了解真实的业务需求，并提供有针对性的解决方案以支持您的运营。"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "我们提供远程服务并按预约工作。让我们讨论如何作为长期技术合作伙伴帮助您的业务。",
+    "whatsappCta": "通过 WhatsApp 联系",
+    "form": {
+      "name": "姓名",
+      "email": "邮箱",
+      "message": "消息",
+      "submit": "发送消息",
+      "success": "感谢您的消息。我们将很快与您联系！"
+    }
+  },
+  "footer": {
+    "description": "专注于为企业、机构和组织提供软件开发、部署和维护服务的技术合作伙伴。构建 → 部署 → 维护。",
+    "quickLinks": "快速链接",
+    "contact": "联系",
+    "remoteService": "可预约的远程服务",
+    "copyright": "Bagdja Development Group. 保留所有权利。"
+  }
+}

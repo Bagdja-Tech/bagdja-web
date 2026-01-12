@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "pricing": "Pricing",
+    "howWeWork": "How We Work",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Software Development, Deployment, and Ongoing Support for Growing Businesses",
+    "subtitle": "We help businesses, institutions, and organizations with reliable technology solutions: application development, deployment, maintenance, and long-term support. Focus on reliability and delivery, not experimentation.",
+    "tagline": "Build → Deploy → Maintain",
+    "ctaConsultation": "Free Consultation",
+    "ctaWhatsApp": "Contact via WhatsApp",
+    "whatsappMessage": "Hello, I'm interested in a free consultation."
+  },
+  "about": {
+    "title": "About Us",
+    "content1": "Bagdja Development Group is a technology partner focused on software development, deployment, and maintenance for businesses, institutions, and organizations.",
+    "content2": "We operate as a service-based development group with a full lifecycle approach: Build → Deploy → Maintain. We don't just develop systems, but also perform reliable deployment and provide ongoing support to ensure systems run well in the long term.",
+    "content3": "We work as a long-term technology partner, not just a project-based vendor. Every system we develop is designed to be maintainable, upgradeable, and scalable according to your business needs.",
+    "content4": "We work remotely and by appointment, allowing high flexibility while maintaining consistent communication and delivery standards. Our team understands that technology is a long-term investment, and we are committed to keeping that investment running optimally."
+  },
+  "services": {
+    "title": "Our Services",
+    "softwareDev": {
+      "title": "Software Development (Web & Mobile)",
+      "description": "Custom web and mobile applications built to support real business processes. Built with reliable technology and maintainable for the long term."
+    },
+    "website": {
+      "title": "Website & Company Profile Development",
+      "description": "Professional websites and company profiles focused on clarity, credibility, and conversion. Built to enhance your business visibility and trust."
+    },
+    "integration": {
+      "title": "System Integration & Automation",
+      "description": "Connecting systems and automating workflows to reduce manual work. Integrating existing tools to improve operational efficiency."
+    },
+    "bugFixing": {
+      "title": "Bug Fixing & System Improvement",
+      "description": "Diagnosing, fixing, and improving existing systems to restore stability and performance. Fixing issues that disrupt business operations."
+    },
+    "maintenance": {
+      "title": "Deployment & Maintenance",
+      "description": "Deployment, monitoring, updates, and ongoing technical support to keep systems running reliably. Regular maintenance and long-term support."
+    },
+    "consulting": {
+      "title": "IT Consulting",
+      "description": "Technical guidance for planning, improving, or scaling systems. Strategic consulting to help make the right technology decisions."
+    },
+    "cta": "Free Consultation"
+  },
+  "pricing": {
+    "title": "Pricing Estimate",
+    "subtitle": "The following prices are initial estimates. Final pricing depends on scope, system condition, and requirements needed.",
+    "website": {
+      "title": "Website & Company Profile",
+      "price": "$160",
+      "priceLabel": "starting from",
+      "description": "Professional and responsive website and company profile optimized for SEO.",
+      "cta": "Free Consultation"
+    },
+    "webApp": {
+      "title": "Web Application / Internal System",
+      "price": "$625",
+      "priceLabel": "starting from",
+      "description": "Web application or internal system custom-built for your business operational needs.",
+      "cta": "Discuss Requirements"
+    },
+    "mobile": {
+      "title": "Mobile Application",
+      "price": "$1,560",
+      "priceLabel": "starting from",
+      "description": "Cross-platform mobile applications using Flutter, React Native, Expo, Firebase, and other mobile technologies for iOS and Android.",
+      "cta": "Request Estimate"
+    },
+    "maintenance": {
+      "title": "Bug Fixing, Deployment & Maintenance",
+      "price": "$95",
+      "priceLabel": "starting from",
+      "description": "Bug fixing, deployment, and ongoing maintenance to keep systems running well.",
+      "cta": "Consult Maintenance"
+    },
+    "disclaimer": "Final pricing depends on scope, system condition, and requirements.",
+    "cta": "Contact via WhatsApp for Consultation"
+  },
+  "howWeWork": {
+    "title": "How We Work",
+    "subtitle": "A clear and transparent lifecycle-based work process to ensure your project runs smoothly.",
+    "step1": {
+      "title": "Consultation & Assessment",
+      "description": "We understand your needs, assess existing system conditions, and determine the best approach for your project."
+    },
+    "step2": {
+      "title": "Scope Definition & Estimation",
+      "description": "We create a clear work scope, provide time and cost estimates, and realistic timelines."
+    },
+    "step3": {
+      "title": "Development / Fixing / Deployment",
+      "description": "Development, fixing, or deployment process is carried out with regular communication and delivery according to the agreed timeline."
+    },
+    "step4": {
+      "title": "Ongoing Support & Maintenance",
+      "description": "Ongoing support and maintenance to ensure systems continue to run optimally. We're ready to help whenever needed."
+    }
+  },
+  "whyUs": {
+    "title": "Why Choose Us",
+    "delivery": {
+      "title": "Professional Delivery",
+      "description": "Every project is delivered professionally, on time, and according to specifications. Focus on reliability, not experimentation."
+    },
+    "partner": {
+      "title": "Long-term Partner",
+      "description": "We work as a long-term technology partner, not a project-based vendor. Commitment to keeping your systems optimal."
+    },
+    "communication": {
+      "title": "Clear Communication",
+      "description": "Transparent communication throughout the project cycle. You always get updates and can consult anytime."
+    },
+    "support": {
+      "title": "Ongoing Maintenance",
+      "description": "Ongoing support and maintenance to ensure systems continue to run optimally. We're ready to help whenever needed."
+    },
+    "business": {
+      "title": "Business-focused",
+      "description": "We understand real business needs and provide targeted solutions to support your operations."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We serve remotely and work by appointment. Let's discuss how we can help your business as a long-term technology partner.",
+    "whatsappCta": "Contact via WhatsApp",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Thank you for your message. We will contact you soon!"
+    }
+  },
+  "footer": {
+    "description": "Technology partner focused on software development, deployment, and maintenance for businesses, institutions, and organizations. Build → Deploy → Maintain.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "remoteService": "Remote service available by appointment",
+    "copyright": "Bagdja Development Group. All rights reserved."
+  }
+}

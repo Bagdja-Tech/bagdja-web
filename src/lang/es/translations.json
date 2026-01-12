@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "about": "Acerca de",
+    "services": "Servicios",
+    "pricing": "Precios",
+    "howWeWork": "Cómo Trabajamos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Desarrollo de Software, Despliegue y Soporte Continuo para Empresas en Crecimiento",
+    "subtitle": "Ayudamos a empresas, instituciones y organizaciones con soluciones tecnológicas confiables: desarrollo de aplicaciones, despliegue, mantenimiento y soporte a largo plazo. Enfoque en confiabilidad y entrega, no en experimentación.",
+    "tagline": "Construir → Desplegar → Mantener",
+    "ctaConsultation": "Consulta Gratuita",
+    "ctaWhatsApp": "Contactar por WhatsApp",
+    "whatsappMessage": "Hola, estoy interesado en una consulta gratuita."
+  },
+  "about": {
+    "title": "Acerca de Nosotros",
+    "content1": "Bagdja Development Group es un socio tecnológico enfocado en desarrollo de software, despliegue y mantenimiento para empresas, instituciones y organizaciones.",
+    "content2": "Operamos como un grupo de desarrollo basado en servicios con un enfoque de ciclo de vida completo: Construir → Desplegar → Mantener. No solo desarrollamos sistemas, sino que también realizamos despliegues confiables y brindamos soporte continuo para asegurar que los sistemas funcionen bien a largo plazo.",
+    "content3": "Trabajamos como socio tecnológico a largo plazo, no solo como proveedor basado en proyectos. Cada sistema que desarrollamos está diseñado para ser mantenible, actualizable y escalable según las necesidades de su negocio.",
+    "content4": "Trabajamos de forma remota y por cita, permitiendo alta flexibilidad mientras mantenemos estándares consistentes de comunicación y entrega. Nuestro equipo entiende que la tecnología es una inversión a largo plazo, y estamos comprometidos a mantener esa inversión funcionando de manera óptima."
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "softwareDev": {
+      "title": "Desarrollo de Software (Web y Móvil)",
+      "description": "Aplicaciones web y móviles personalizadas construidas para apoyar procesos comerciales reales. Construidas con tecnología confiable y mantenibles a largo plazo."
+    },
+    "website": {
+      "title": "Desarrollo de Sitios Web y Perfiles de Empresa",
+      "description": "Sitios web y perfiles de empresa profesionales enfocados en claridad, credibilidad y conversión. Construidos para mejorar la visibilidad y confianza de su negocio."
+    },
+    "integration": {
+      "title": "Integración de Sistemas y Automatización",
+      "description": "Conectando sistemas y automatizando flujos de trabajo para reducir el trabajo manual. Integrando herramientas existentes para mejorar la eficiencia operativa."
+    },
+    "bugFixing": {
+      "title": "Corrección de Errores y Mejora de Sistemas",
+      "description": "Diagnosticando, corrigiendo y mejorando sistemas existentes para restaurar estabilidad y rendimiento. Corrigiendo problemas que interrumpen las operaciones comerciales."
+    },
+    "maintenance": {
+      "title": "Despliegue y Mantenimiento",
+      "description": "Despliegue, monitoreo, actualizaciones y soporte técnico continuo para mantener los sistemas funcionando de manera confiable. Mantenimiento regular y soporte a largo plazo."
+    },
+    "consulting": {
+      "title": "Consultoría IT",
+      "description": "Orientación técnica para planificar, mejorar o escalar sistemas. Consultoría estratégica para ayudar a tomar las decisiones tecnológicas correctas."
+    },
+    "cta": "Consulta Gratuita"
+  },
+  "pricing": {
+    "title": "Estimación de Precios",
+    "subtitle": "Los siguientes precios son estimaciones iniciales. El precio final depende del alcance, condición del sistema y requisitos necesarios.",
+    "website": {
+      "title": "Sitio Web y Perfil de Empresa",
+      "price": "€140",
+      "priceLabel": "desde",
+      "description": "Sitio web y perfil de empresa profesional y responsivo optimizado para SEO.",
+      "cta": "Consulta Gratuita"
+    },
+    "webApp": {
+      "title": "Aplicación Web / Sistema Interno",
+      "price": "€570",
+      "priceLabel": "desde",
+      "description": "Aplicación web o sistema interno construido a medida para las necesidades operativas de su negocio.",
+      "cta": "Discutir Requisitos"
+    },
+    "mobile": {
+      "title": "Aplicación Móvil",
+      "price": "€1,430",
+      "priceLabel": "desde",
+      "description": "Aplicaciones móviles multiplataforma usando Flutter, React Native, Expo, Firebase y otras tecnologías móviles para iOS y Android.",
+      "cta": "Solicitar Estimación"
+    },
+    "maintenance": {
+      "title": "Corrección de Errores, Despliegue y Mantenimiento",
+      "price": "€85",
+      "priceLabel": "desde",
+      "description": "Corrección de errores, despliegue y mantenimiento continuo para mantener los sistemas funcionando bien.",
+      "cta": "Consultar Mantenimiento"
+    },
+    "disclaimer": "El precio final depende del alcance, condición del sistema y requisitos.",
+    "cta": "Contactar por WhatsApp para Consulta"
+  },
+  "howWeWork": {
+    "title": "Cómo Trabajamos",
+    "subtitle": "Un proceso de trabajo claro y transparente basado en el ciclo de vida para asegurar que su proyecto se ejecute sin problemas.",
+    "step1": {
+      "title": "Consulta y Evaluación",
+      "description": "Entendemos sus necesidades, evaluamos las condiciones del sistema existente y determinamos el mejor enfoque para su proyecto."
+    },
+    "step2": {
+      "title": "Definición de Alcance y Estimación",
+      "description": "Creamos un alcance de trabajo claro, proporcionamos estimaciones de tiempo y costo, y cronogramas realistas."
+    },
+    "step3": {
+      "title": "Desarrollo / Corrección / Despliegue",
+      "description": "El proceso de desarrollo, corrección o despliegue se lleva a cabo con comunicación regular y entrega de acuerdo con el cronograma acordado."
+    },
+    "step4": {
+      "title": "Soporte y Mantenimiento Continuo",
+      "description": "Soporte y mantenimiento continuo para asegurar que los sistemas continúen funcionando de manera óptima. Estamos listos para ayudar cuando sea necesario."
+    }
+  },
+  "whyUs": {
+    "title": "Por Qué Elegirnos",
+    "delivery": {
+      "title": "Entrega Profesional",
+      "description": "Cada proyecto se entrega de manera profesional, a tiempo y según las especificaciones. Enfoque en confiabilidad, no en experimentación."
+    },
+    "partner": {
+      "title": "Socio a Largo Plazo",
+      "description": "Trabajamos como socio tecnológico a largo plazo, no como proveedor basado en proyectos. Compromiso de mantener sus sistemas óptimos."
+    },
+    "communication": {
+      "title": "Comunicación Clara",
+      "description": "Comunicación transparente durante todo el ciclo del proyecto. Siempre obtiene actualizaciones y puede consultar en cualquier momento."
+    },
+    "support": {
+      "title": "Mantenimiento Continuo",
+      "description": "Soporte y mantenimiento continuo para asegurar que los sistemas continúen funcionando de manera óptima. Estamos listos para ayudar cuando sea necesario."
+    },
+    "business": {
+      "title": "Enfoque en el Negocio",
+      "description": "Entendemos las necesidades comerciales reales y proporcionamos soluciones específicas para apoyar sus operaciones."
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Servimos de forma remota y trabajamos por cita. Hablemos sobre cómo podemos ayudar a su negocio como socio tecnológico a largo plazo.",
+    "whatsappCta": "Contactar por WhatsApp",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo Electrónico",
+      "message": "Mensaje",
+      "submit": "Enviar Mensaje",
+      "success": "¡Gracias por su mensaje. Nos pondremos en contacto pronto!"
+    }
+  },
+  "footer": {
+    "description": "Socio tecnológico enfocado en desarrollo de software, despliegue y mantenimiento para empresas, instituciones y organizaciones. Construir → Desplegar → Mantener.",
+    "quickLinks": "Enlaces Rápidos",
+    "contact": "Contacto",
+    "remoteService": "Servicio remoto disponible con cita previa",
+    "copyright": "Bagdja Development Group. Todos los derechos reservados."
+  }
+}
